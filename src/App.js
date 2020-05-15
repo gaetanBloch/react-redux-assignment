@@ -11,6 +11,7 @@ class App extends Component {
             Turn this app into one which does NOT use local state (in components) but instead uses Redux
           </li>
         </ol>
+        <hr/>
         <Persons />
       </div>
     );
